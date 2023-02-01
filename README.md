@@ -1,2 +1,1 @@
-# PreCourse-Henrry
-este es un repositorio de prueba!
+este repositorio es una prueba.
